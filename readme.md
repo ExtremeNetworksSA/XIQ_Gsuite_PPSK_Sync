@@ -1,5 +1,9 @@
 # PCG API Script Notice – Release 25r3
 
+_The software is provided as-is and [Extreme Networks](http://www.extremenetworks.com/) has no obligation to provide maintenance, support, updates, enhancements, or modifications. Any support provided by [Extreme Networks](http://www.extremenetworks.com/) is at its sole discretion._
+
+_Issues and/or bug fixes may be reported on in the Issues for this repository._
+
 ### ✅ PCG API Update Now Available
 
 The **25r3 release** has introduced **pagination** to the PCG API, aligning it with other APIs like PPSK. This change allows users to retrieve data in pages (e.g., 100 users at a time) for improved performance.
