@@ -5,3 +5,5 @@ Temp_Notes.md
 XIQ-GSuite-PPSK-sync.log
 /venv
 .DS_Store
+/__pycache__
+/app/__pycache__
