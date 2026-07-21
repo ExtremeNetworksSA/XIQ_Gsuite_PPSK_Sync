@@ -5,8 +5,6 @@ from collections import defaultdict
 from app.logger import logger
 from app.xiq_api import XIQ, APICallFailedException
 from app.gsuite import GSuite, GAPIFailedException
-# google api imports
-
 # other imports
 logger = logging.getLogger('XIQ-GSuite-PPSK_Sync.Main')
 
@@ -26,7 +24,7 @@ pageSize = 100
 #XIQ_username = "enter your ExtremeCloudIQ Username"
 #XIQ_password = "enter your ExtremeCLoudIQ password"
 ####OR###
-## TOKEN permission needs - enduser, pcg:key
+## TOKEN permission needs - enduser, pcg:key, lro
 XIQ_token = "****"
 
 group_roles = [
